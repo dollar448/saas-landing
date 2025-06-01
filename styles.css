@@ -57,7 +57,7 @@
  h2 {
      font-size: 40px;
      font-weight: 1200;
-     color:#54be96;
+     color: #54be96;
  }
 
  .signup {
@@ -104,245 +104,476 @@
      display: flex;
      align-items: center;
  }
- .first{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    gap: 140px;
-    padding: 50px;
- }
- .images{
-    position: relative;
-   
- }
- .rectangle{
-    position: absolute;
- bottom: 430px;
-    right:300px;
-}
-.group1{
-    position: absolute;
-    bottom: 430px;
-    left: 390px;
-}
-.rectangle2{
-    position: absolute;
-    bottom: 300px;
-    right: 430px;
-}
-.group2{
-    position: absolute;
-    bottom: 50px;
-    right: 340px;
-}
-.frame2{
-    position: absolute;
-    bottom: 30px;
-    left: 320px;
-}
-.group3{
-    position: absolute;
-   top: 500px;
-   left: 300px;
-}
-.collab {
-    text-align:center;
-    color: black;
-}
-.icon{
-    display: flex;
-    justify-content: center;
-    gap: 60px;
-    font-size: 40px;
-    color: #a6a6a6;
-}
-#review{
-    background-color: #f9f8fe;
-   
-}
-.partner h2{
-    color: black;
-    }
-    .partner{
-        color: #a6a6a6;
-        display: flex;
-        justify-content: space-evenly;
-    }
-.ratings1{
-    display: flex;
-    color: gold;
-}
-.four{
-    color: black;
-    padding: 20px 20px 20px 0px;
-}
-.four span{
-    font-weight: bold;
-}
-.bistar{
-    display: flex;
-   color: gold;
-}
-.love{
-    color: black;
-    padding: 20px 20px 20px 0px;
-}
-.love span{
-    font-weight: bold;
-}
-.star1{
-    display: flex;
-    gap: 40px;
-}
-.review{
-    display: flex;
-}
-.publish{
-    display: flex;
-}
 
-.analytics{
+ .first {
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+     gap: 140px;
+     padding: 50px;
+ }
+
+ .images {
+     position: relative;
+
+ }
+
+ .rectangle {
+     position: absolute;
+     bottom: 430px;
+     right: 300px;
+ }
+
+ .group1 {
+     position: absolute;
+     bottom: 430px;
+     left: 390px;
+ }
+
+ .rectangle2 {
+     position: absolute;
+     bottom: 300px;
+     right: 430px;
+ }
+
+ .group2 {
+     position: absolute;
+     bottom: 50px;
+     right: 340px;
+ }
+
+ .frame2 {
+     position: absolute;
+     bottom: 30px;
+     left: 320px;
+ }
+
+ .group3 {
+     position: absolute;
+     top: 500px;
+     left: 300px;
+ }
+
+ .collab {
+     text-align: center;
+     color: black;
+ }
+
+ .icon {
+     display: flex;
+     justify-content: center;
+     gap: 60px;
+     font-size: 40px;
+     color: #a6a6a6;
+ }
+
+ #review {
+     background-color: #f9f8fe;
+
+ }
+
+ .partner h2 {
+     color: black;
+ }
+
+ .partner {
+     color: #a6a6a6;
+     display: flex;
+     justify-content: space-evenly;
+ }
+
+ .ratings1 {
+     display: flex;
+     color: gold;
+ }
+
+ .four {
+     color: black;
+     padding: 20px 20px 20px 0px;
+ }
+
+ .four span {
+     font-weight: bold;
+ }
+
+ .bistar {
+     display: flex;
+     color: gold;
+ }
+
+ .love {
+     color: black;
+     padding: 20px 20px 20px 0px;
+ }
+
+ .love span {
+     font-weight: bold;
+ }
+
+ .star1 {
+     display: flex;
+     gap: 40px;
+ }
+
+ .review {
+     display: flex;
+ }
+
+ .publish {
+     display: flex;
+ }
+
+ .analytics {
+     display: flex;
+ }
+
+ .engagement {
+     display: flex;
+ }
+
+ .publishing {
+     display: block;
+ }
+
+ #easy {
+     background-color: #f5f5f5;
+ }
+
+ .easily {
+     display: flex;
+     justify-content: space-evenly;
+ }
+
+ .easily h2 {
+     color: black;
+ }
+
+ .easily p {
+     color: #a6a6a6;
+ }
+
+ .easily button {
+     padding: 20px 20px 30px 20px;
+     height: 30px;
+     margin: 20px;
+     border-radius: 30px;
+     border: 0px;
+     color: #e4dfdf;
+     background-color: #54be96;
+ }
+
+ .team {
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+ }
+
+ .team h2 {
+     color: black;
+ }
+
+ .team p {
+     color: #a6a6a6;
+ }
+
+ .bene ul {
+     list-style: none;
+ }
+
+ .bene h2 {
+     color: black;
+ }
+
+ .bene i {
+     color: #54be96;
+ }
+
+ .bene span {
+     padding: 100px;
+ }
+
+ .transfer {
+     display: flex;
+     justify-content: space-evenly;
+     gap: 90px;
+ }
+
+ .money {
+     position: relative;
+ }
+
+ .amanda {
+     position: absolute;
+     bottom: 360px;
+     left: 350px;
+ }
+
+ .success {
+     position: absolute;
+     bottom: 2px;
+     right: 280px;
+ }
+
+ .not {
+     position: absolute;
+     bottom: 250px;
+     right: 470px;
+ }
+
+ .nama {
+     position: absolute;
+     bottom: 410px;
+     right: 300px;
+ }
+
+ .plan {
+     text-align: center;
+ }
+
+ .plan h2 {
+     color: black;
+ }
+
+ .plan p {
+     color: #7c7b7b;
+ }
+
+ #monthly {
+     position: absolute;
+     padding-right: 97px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     border: none;
+     border-radius: 12px;
+ }
+
+ #yearly {
+     position: relative;
+     left: 90px;
+     top: 5px;
+     padding: 10px;
+     border-radius: 10px;
+     border: none;
+     background-color: #54be96;
+     color: #fff;
+ }
+
+ .three {
+     display: flex;
+     box-sizing: border-box;
+     align-items: center;
+     justify-content: space-evenly;
+     padding-top: 60px;
+
+ }
+
+ .three h2 {
+     color: black;
+ }
+
+ .three p {
+     color: #a6a6a6;
+ }
+
+ .free {
+     padding: 20px;
+     background-color: white;
+     border-radius: 20px;
+ }
+
+ #gora {
+     display: flex;
+ }
+
+ #gora h2 {
+     margin: 20px 0px 0px 0px;
+ }
+
+
+ .gora h2 {
+     margin: 0px;
+ }
+
+ .gora {
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .files {
+     padding: 20px 20px 20px 5px;
+     background-color: #e7e3e3;
+     border-radius: 15px
+ }
+
+ .files i {
+     color: #54be96;
+ }
+
+ .files ul {
+     display: flex;
+     flex-direction: column;
+     gap: 25px;
+     justify-content: left;
+ }
+
+ .files button {
+     background-color: white;
+     border: 0px;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 10px;
+     display: block;
+     color: #54be96;
+    }
+
+ .pro {
+     padding: 20px;
+     padding: 20px;
+     background-color: #54be96;
+     border-radius: 20px
+     }
+
+ .infinite h2 {
+     color: #fff;
+     margin: 0px;
+ }
+
+ .infinite p {
+     color: #fff;
+     margin: 0px;
+ }
+
+ .incoming {
+     padding: 20px 20px 20px 5px;
+     background-color: white;
+     border-radius: 15px
+ }
+
+ #saveforpro {
+     padding: 5px;
+     background-color: #85dab9;
+     border-radius: 10px;
+     color: white;
+     margin: 20px;
+}
+.infinite{
+    display: flex;
+     flex-direction: column;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+     gap: 10px;
+}
+.infinite span{
     display: flex;
 }
-.engagement{
+.incoming ul{
     display: flex;
-}
-.publishing{
-    display: block;
-}
-#easy{
-    background-color: #f5f5f5;
-}
-.easily{
-    display: flex;
-    justify-content: space-evenly;
-}
-.easily h2{
-    color: black;
-}
-.easily p{
-    color: #a6a6a6;
-}
-.easily button{
-    padding: 20px 20px 30px 20px;
-    height: 30px;
-    margin: 20px;
-    border-radius: 30px;
+     flex-direction: column;
+     gap: 25px;
+     justify-content: left;
+ } 
+ .incoming button{
+    background-color: #54be96;
     border: 0px;
-   color: #e4dfdf;
-    background-color: #54be96;
+   
+ }
+.incoming button{
+     background-color: #54be96;
+     border: 0px;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 13px;
+     display: block;
+     color:white;
 }
-.team{
+.unveil{
+padding: 20px;
+     background-color: white;
+     border-radius: 20px;
+}
+#payment{
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
 }
-.team h2{
-    color: black;
+.unveil h2{
+ color: black;
+ margin: 0px;
 }
-.team p{
+.businesses{
+   padding: 20px 20px 20px 5px;
+     background-color: #e7e3e3;
+     border-radius: 15px 
+}
+.businesses ul{
+ display: flex;
+     flex-direction: column;
+     gap: 25px;
+     justify-content: left;
+}
+.league{
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+}
+#payment h2{
+     margin: 20px 0px 0px 0px;
+ }
+.businesses i{
+    color: #54be96;
+}
+#payment p{
+     margin: 20px 0px 0px 0px;
+}
+.businesses button{
+    background-color:white;
+     border: 0px;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 13px;
+     display: block;
+     color:#54be96;
+}
+#centre{
+    background-color: #161c28;
+}
+.elipse h2{
+    color: white;
+}
+.elipse p{
     color: #a6a6a6;
 }
-.bene ul{
-    list-style: none;
-  }
-.bene h2{
-    color: black;
+.email h2{
+    margin: 10px;
 }
-.bene i{
-    color: #54be96; 
+.email p{
+    color: #a6a6a6;
 }
-.bene span{
-    padding: 100px;
-}
-.transfer{
-    display: flex;
-    justify-content: space-evenly;
-    gap: 90px;
-}
-.money{
-    position: relative;
-}
-.amanda{
-    position: absolute;
- bottom: 360px;
-left: 350px;
-} 
-.success{
-position: absolute;
-bottom: 2px;
-right: 280px;
-}
-.not{
-    position: absolute;
-    bottom: 250px;
-    right: 470px;
-}
-.nama{
-    position: absolute;
-    bottom: 410px;
-    right: 300px;
-}
-.plan{
-    text-align: center;
-}
- .plan h2{ 
-    color: black;
-}
-.plan p{
-    color: #7c7b7b;
-}
-#monthly{
-    position: absolute;
-    padding-right: 97px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border: none;
-    border-radius: 12px;
-    }
-#yearly{
-    position: relative;
-    left:90px;
-    top: 5px;
-    padding: 10px;
-    border-radius: 10px;
-    border: none;
-    background-color: #54be96;
-    color: #fff;
-}
-.three{
-    display: flex;
-    box-sizing: border-box;
-    align-items: center;
-    justify-content: space-evenly;
-    padding-top: 60px;
+#mail{
+    margin: 10px;
+    padding: 10px 50px 10px 20px;
+    border:  #a6a6a6 thin;
+border-radius: 20px;
+
 
 }
-.three h2{
-    color:black ;
-}
-.three p{
-    color: #a6a6a6;
-}
-.free{
-    padding:30px ;
-    background-color: white;
-    border-radius: 20px;
-}
-   #gora{
-    display:flex;
+.arrow{
    
-   } 
-.gora{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
+    color: #54be96;
+    font-size: 35px;
+    
 }
+
+.emailimput{
    
-.files{
-    padding: 10px;
-    background-color: #e7e3e3;
-    border-radius: 30px;
 }
