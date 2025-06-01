@@ -235,4 +235,114 @@
 .team{
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
+}
+.team h2{
+    color: black;
+}
+.team p{
+    color: #a6a6a6;
+}
+.bene ul{
+    list-style: none;
+  }
+.bene h2{
+    color: black;
+}
+.bene i{
+    color: #54be96; 
+}
+.bene span{
+    padding: 100px;
+}
+.transfer{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 90px;
+}
+.money{
+    position: relative;
+}
+.amanda{
+    position: absolute;
+ bottom: 360px;
+left: 350px;
+} 
+.success{
+position: absolute;
+bottom: 2px;
+right: 280px;
+}
+.not{
+    position: absolute;
+    bottom: 250px;
+    right: 470px;
+}
+.nama{
+    position: absolute;
+    bottom: 410px;
+    right: 300px;
+}
+.plan{
+    text-align: center;
+}
+ .plan h2{ 
+    color: black;
+}
+.plan p{
+    color: #7c7b7b;
+}
+#monthly{
+    position: absolute;
+    padding-right: 97px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: none;
+    border-radius: 12px;
+    }
+#yearly{
+    position: relative;
+    left:90px;
+    top: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #54be96;
+    color: #fff;
+}
+.three{
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 60px;
+
+}
+.three h2{
+    color:black ;
+}
+.three p{
+    color: #a6a6a6;
+}
+.free{
+    padding:30px ;
+    background-color: white;
+    border-radius: 20px;
+}
+   #gora{
+    display:flex;
+   
+   } 
+.gora{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+   
+.files{
+    padding: 10px;
+    background-color: #e7e3e3;
+    border-radius: 30px;
 }
